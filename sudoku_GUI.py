@@ -185,7 +185,7 @@ def format_time(secs):
     mat = " " + str(minute) + ":" + str(sec)
     return mat
 
-
+# implement a spacebar button that will autosolve the whole thing
 def main():
     win = pygame.display.set_mode((540,600))
     pygame.display.set_caption("Sudoku")
