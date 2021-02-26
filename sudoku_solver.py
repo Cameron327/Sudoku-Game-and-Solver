@@ -1,6 +1,7 @@
 # this is my sudoku solver program
 
 # The zeroes will represent empty positions
+# Try to implement something that will generate random sudoku boards
 board = [
     [7,8,0,4,0,0,1,2,0],
     [6,0,0,0,7,5,0,0,9],
